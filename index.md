@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+## Welcome to Memory Container
 
-You can use the [editor on GitHub](https://github.com/AP1028/MemoryContainer/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+[返回个人主页](https://ap1028.github.io/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+此处会存放一些停止维护的计划或是一些值得存储的东西。
 
-### Markdown
+使用github.io域名的最大好处就是它完全免费且永久存在。倘若我突然在地球上消失，这些信息依然会在这里。只有当我主动删除或是GitHub倒闭时，此处的信息才有可能消失。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+这样来看，这里记录的东西会比这些东西本身存在更久的时间。
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AP1028/MemoryContainer/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+1. [**WWZ的*“奇文”***](./WWZwriting.md)
