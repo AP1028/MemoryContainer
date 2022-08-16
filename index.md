@@ -10,3 +10,4 @@
 
 1. [**猫**](./cat.md)
 2. [**WWZ的“奇文”**](./WWZwriting.md)
+3. **[毕业视频](./GraduationVid)**
